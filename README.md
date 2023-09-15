@@ -1,16 +1,9 @@
 # firstproject
 
-A new Flutter project.
+This app is built using flutter framework and integrated with firebase, cloud firestore and Googlr Map API.
+The app opens up with a splash screen thereafter a loginscreen apears along with an option of signing up or login with phone number (OTP Verification).
+The phone number should be entered along with the country code (Eg. +91XXXXXXXXXX).
+In order to take an experience the sample login credentials are:
+Email: samagra@resoluteai.com
+Password: 123456
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
